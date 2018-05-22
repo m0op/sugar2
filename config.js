@@ -1,9 +1,8 @@
 /******************************************************************
 	
 	
-	@ Item          Legendary // One Page Parallax HTML Template 
-	@ Author		Avanzare
-	@ Website		http://themeforest.net/user/avanzare 
+	@ Item          SUGAR 
+	@ Author		CHLOE
 	
 
  ******************************************************************/
